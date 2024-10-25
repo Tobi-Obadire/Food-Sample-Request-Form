@@ -25,4 +25,7 @@ MS Excel was used to create a fillable form: [**Excel**](https://www.microsoft.c
 - HOD approval section (to either approve the sample collection or not)
 - Feedback from the Requestor
   This approach help the restaurant to regulate sample collection and improve their relationship with suppliers.
+  ## Form created
+  ![](fillableform.JPG)
+  
   
