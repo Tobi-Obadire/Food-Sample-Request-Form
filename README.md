@@ -28,4 +28,4 @@ MS Excel was used to create a fillable form: [**Excel**](https://www.microsoft.c
   ## Form created
   ![](fillableform.JPG)
   
-  
+  Note: It is interesting to note that the boxes are tickable 
